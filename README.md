@@ -34,12 +34,6 @@ The goal of this project is to analyze **purchase and sales performance** to hel
 - **SQL:** Data extraction and aggregation
 - **Power BI:** Dashboard creation and visualization
 
-## Key Insights
-- Vendor-level performance can be ranked based on purchase vs sales contribution.
-- Freight costs vary significantly with purchase size.
-- Outliers in purchase price and freight charges indicate negotiation opportunities.
-- Data-driven recommendations for **vendor selection** and **purchase optimization**.
-
-## 🚀 How to Run
+## How to Run
 1. Clone this repo:
    git clone https://github.com/yourusername/purchase-performance-analysis.git
