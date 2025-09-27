@@ -1,11 +1,11 @@
-# 🛒 Purchase Performance Analysis
+#  Purchase Performance Analysis
 
 This project is a **Data Analysis and Visualization** case study focusing on **purchases, sales, and inventory performance**.  
 It combines **Python (EDA, SQLite, Pandas, Seaborn, Matplotlib)** and **Power BI** to deliver both analytical insights and interactive dashboards.  
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 The goal of this project is to analyze **purchase and sales performance** to help answer:
 - Which vendors contribute most to total purchases and sales?
 - Are there inefficiencies or outliers in purchase prices and freight costs?
@@ -14,7 +14,7 @@ The goal of this project is to analyze **purchase and sales performance** to hel
 
 ---
 
-## 🔎 Workflow
+## Workflow
 ### 1. Data Ingestion
 - Raw `.csv` files loaded into SQLite database.
 - Automated ingestion pipeline with Python + SQLAlchemy.
@@ -35,14 +35,14 @@ The goal of this project is to analyze **purchase and sales performance** to hel
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python:** Pandas, Matplotlib, Seaborn, SQLite
 - **SQL:** Data extraction and aggregation
 - **Power BI:** Dashboard creation and visualization
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Vendor-level performance can be ranked based on purchase vs sales contribution.
 - Freight costs vary significantly with purchase size.
 - Outliers in purchase price and freight charges indicate negotiation opportunities.
@@ -50,12 +50,6 @@ The goal of this project is to analyze **purchase and sales performance** to hel
 
 ---
 
-## 📷 Dashboard Preview
-*(Add screenshot of your Power BI dashboard here)*
-
----
-
 ## 🚀 How to Run
 1. Clone this repo:
-   ```bash
    git clone https://github.com/yourusername/purchase-performance-analysis.git
