@@ -29,6 +29,10 @@ The goal of this project is to analyze **purchase and sales performance** to hel
 - **Bar charts:** Vendor-level dollars & freight, Purchase size trends.
 - **Interactive filters** for Vendor, Brand, Size.
 
+## POWER BI DASHBOARD SCREENSHOT:
+<img width="959" height="543" alt="image" src="https://github.com/user-attachments/assets/798b08b9-c6ca-49bc-9cf4-d557b942025a" />
+
+
 ## Tech Stack
 - **Python:** Pandas, Matplotlib, Seaborn, SQLite
 - **SQL:** Data extraction and aggregation
